@@ -1,0 +1,10 @@
+./test.csv
+./train.csv
+./validation.csv
+test.csv
+train.csv
+validation.csv
+test
+train
+validation
+./.gitignore
